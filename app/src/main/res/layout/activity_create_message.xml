@@ -7,15 +7,16 @@
     android:padding="16dp"
     android:orientation="vertical"
     tools:context=".CreateMessageActivity"
-    android:background="@drawable/buttonbackground">
+    android:background="@drawable/aktivitybackground">
 
     <EditText
         android:id="@+id/message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
+        android:ems="15"
         android:hint="@string/hint"
-        android:ems="10"/>
+        android:minHeight="48dp" />
     <Button
         android:id="@+id/send"
         android:layout_width="wrap_content"
@@ -23,7 +24,7 @@
         android:layout_marginTop="20dp"
         android:onClick="onSendMessage"
         android:text="@string/send"
-        android:background="@drawable/aktivitybackground">
+        android:background="@drawable/buttonbackground">
     </Button>
 
 </LinearLayout>
