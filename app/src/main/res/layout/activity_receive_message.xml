@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context=".ReceiveMessageActivity">
+    tools:context=".ReceiveMessageActivity"
+    android:background="@drawable/aktivitybackground">
 
     <TextView
         android:id="@+id/message"

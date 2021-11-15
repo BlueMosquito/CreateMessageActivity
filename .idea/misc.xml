@@ -6,10 +6,14 @@
         <entry key="..\:/Users/Hamee/AndroidStudioProjects/CreateMessageActivity/app/src/main/res/layout/activity_create_message.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Hamee/AndroidStudioProjects/CreateMessageActivity/app/src/main/res/layout/activity_main.xml" value="0.3453125" />
         <entry key="..\:/Users/Hamee/AndroidStudioProjects/CreateMessageActivity/app/src/main/res/layout/activity_receive_message.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/aktivitybackground.xml" value="0.2265625" />
+        <entry key="app/src/main/res/drawable/buttonbackground.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_create_message.xml" value="0.21041666666666667" />
+        <entry key="app/src/main/res/layout/activity_receive_message.xml" value="0.21041666666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
